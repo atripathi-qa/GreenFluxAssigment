@@ -1,0 +1,4 @@
+# Created at 2020-11-01T18:20:03.204
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Assignment\GreenFluxAssigment\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
